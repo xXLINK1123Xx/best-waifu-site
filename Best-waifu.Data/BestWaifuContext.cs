@@ -24,6 +24,7 @@ namespace BestWaifu.Data
 
         public virtual DbSet<Character> MyEntities { get; set; }
 
+        public virtual DbSet<Franchise> Franchises { get; set; }
 
         #endregion
         

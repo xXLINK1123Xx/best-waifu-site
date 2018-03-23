@@ -16,6 +16,9 @@ namespace BestWaifu.Data.Entities
 
         public int Age { get; set; }
 
+        [ForeignKey("Franchise")]
+        public int FranchiseId { get; set; }
+
         public DateTime BirthDate { get; set; }
 
         public string Photo { get; set; }
@@ -25,5 +28,7 @@ namespace BestWaifu.Data.Entities
         [Required(AllowEmptyStrings = false, ErrorMessage = @"Please character's bio")]
         [StringLength(1000, ErrorMessage = @"Bio must be less than 1000 characters")]
         public string Bio { get; set; }
+
+        public virtual Franchise Franchise { get; set; }
     }
 }

@@ -42,5 +42,11 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Best-waifu.Data\Best-Waifu.Model.csproj">
+      <Project>{ccf043c3-1bd5-48bd-a421-d03d44d05544}</Project>
+      <Name>Best-Waifu.Model</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
