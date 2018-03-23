@@ -51,6 +51,7 @@
   <ItemGroup>
     <Compile Include="BestWaifuContext.cs" />
     <Compile Include="Entities\Character.cs" />
+    <Compile Include="Entities\Franchise.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
