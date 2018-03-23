@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27130.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Best-waifu.Web", "Best-waifu\Best-waifu.Web.csproj", "{F485FFC4-8113-4E8B-A2D3-1D951D9C8C3E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Best-waifu.Data", "Best-waifu.Data\Best-waifu.Data.csproj", "{CCF043C3-1BD5-48BD-A421-D03D44D05544}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Best-waifu.Model", "Best-waifu.Data\Best-waifu.Model.csproj", "{CCF043C3-1BD5-48BD-A421-D03D44D05544}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Best-waifu.Application", "Best-waifu.Application\Best-waifu.Application.csproj", "{9C0F3A5B-F773-4831-ADD2-6D3490DC6998}"
 EndProject

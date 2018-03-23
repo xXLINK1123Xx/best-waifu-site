@@ -1,0 +1,9 @@
+best-waifu project
+
+MVC
+
+model -> best-waifu.models (code first EF model)
+
+controller -> best-waifu.application
+
+view -> best-waifu.web
