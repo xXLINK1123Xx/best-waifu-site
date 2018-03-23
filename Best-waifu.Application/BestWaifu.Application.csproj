@@ -7,7 +7,7 @@
     <ProjectGuid>{9C0F3A5B-F773-4831-ADD2-6D3490DC6998}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Best_waifu.Application</RootNamespace>
+    <RootNamespace>BestWaifu.Application</RootNamespace>
     <AssemblyName>Best-waifu.Application</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

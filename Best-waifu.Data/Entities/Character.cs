@@ -1,7 +1,7 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace Best_waifu.Data.Entities
+namespace BestWaifu.Data.Entities
 {
     public class Character
     {

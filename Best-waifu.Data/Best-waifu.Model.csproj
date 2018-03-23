@@ -7,7 +7,7 @@
     <ProjectGuid>{CCF043C3-1BD5-48BD-A421-D03D44D05544}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Best_waifu.Data</RootNamespace>
+    <RootNamespace>BestWaifu.Data</RootNamespace>
     <AssemblyName>Best-waifu.Data</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
@@ -51,6 +51,7 @@
   <ItemGroup>
     <Compile Include="BestWaifuContext.cs" />
     <Compile Include="Entities\Character.cs" />
+    <Compile Include="Interfaces\IDataContext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
